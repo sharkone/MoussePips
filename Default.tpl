@@ -1,7 +1,7 @@
 <chart>
 symbol=EURUSD
 period=1440
-leftpos=1945
+leftpos=2000
 digits=5
 scale=8
 graph=1
@@ -18,9 +18,9 @@ shift_size=20
 fixed_pos=0
 window_left=0
 window_top=0
-window_right=544
-window_bottom=250
-window_type=3
+window_right=550
+window_bottom=249
+window_type=1
 background_color=0
 foreground_color=16777215
 barup_color=12632256
